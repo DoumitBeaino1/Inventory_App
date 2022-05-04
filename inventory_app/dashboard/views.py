@@ -30,3 +30,9 @@ def list(request):
         product_list = Product.objects.all()
         return render(request,'listAll.html',
         {'event_list' : product_list})
+
+def list_Sort(request):
+        product_list = Product.objects.all().order_by('expiry_date')
+        return render(request,'sort.html',
+        {'event_list' : product_list})
+
