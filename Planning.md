@@ -1,4 +1,4 @@
-D'abord j'ai commencé par mettre en place l'environnement de travail Django et par creer et connecter la base de données Postgresql.
+D'abord j'ai commencé par mettre en place l'environnement de travail Django et par créer et connecter la base de données Postgresql.
 
 J'ai reparti les taches et mon temps comme indiquer ci-dessous:
 
