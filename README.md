@@ -4,11 +4,14 @@ To use:
 
 - Clone Git repository
 - Create a new postgresql database called myApp
-- Use commands: python manage.py migrate dashboard
-                python manage.py makemigrations
-                python manage.py migrate
-                python manage.py createsuperuser
-                python manage.py runserver
+
+Use commands: 
+
+python manage.py migrate dashboard
+python manage.py makemigrations
+python manage.py migrate
+python manage.py createsuperuser
+python manage.py runserver
 
 Features include:
 
